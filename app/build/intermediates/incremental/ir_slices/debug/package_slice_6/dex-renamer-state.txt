@@ -1,0 +1,4 @@
+#Wed Aug 07 18:00:15 IST 2019
+base.0=D\:\\downlads\\android-fundamentals-apps-v2-master\\DroidCafeChallenge\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

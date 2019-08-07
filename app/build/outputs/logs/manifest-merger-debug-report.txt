@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\db98db746b480dad8f00e67f5b5fd1ef\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4b468c4b6bcc3b508e236855e7e6c4ef\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\10d38086179baa57a6f2906ef552d7ab\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4e3f314ed540e4e5172a0783e6d949ab\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\43896a556baf56910f5f76e3586f2c27\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4d743fbc06d0ccd6650dbf3355d9763f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\8752279e9a27700924cb27580ee4a35f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\ac022c8cc92a629460c64a4f66c4accb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\38934ccb274efd5e63354d549933a1c2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\7168d14ddc006a213500d9545adbcd99\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\b200e1b7eaee760e5c5b1ab78daf68bd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\55af835f77423a8639f76d135d6761f6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\fce4588e1a8597d95390ee870f86a023\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\974a1e16f13de06ad7f142ed7a2984ec\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:19:5-44
+		INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:21:5-39:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\db98db746b480dad8f00e67f5b5fd1ef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\db98db746b480dad8f00e67f5b5fd1ef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4b468c4b6bcc3b508e236855e7e6c4ef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4b468c4b6bcc3b508e236855e7e6c4ef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\10d38086179baa57a6f2906ef552d7ab\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\10d38086179baa57a6f2906ef552d7ab\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4e3f314ed540e4e5172a0783e6d949ab\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4e3f314ed540e4e5172a0783e6d949ab\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\43896a556baf56910f5f76e3586f2c27\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\43896a556baf56910f5f76e3586f2c27\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4d743fbc06d0ccd6650dbf3355d9763f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4d743fbc06d0ccd6650dbf3355d9763f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\8752279e9a27700924cb27580ee4a35f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\8752279e9a27700924cb27580ee4a35f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\ac022c8cc92a629460c64a4f66c4accb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\ac022c8cc92a629460c64a4f66c4accb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\38934ccb274efd5e63354d549933a1c2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\38934ccb274efd5e63354d549933a1c2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\7168d14ddc006a213500d9545adbcd99\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\7168d14ddc006a213500d9545adbcd99\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\b200e1b7eaee760e5c5b1ab78daf68bd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\b200e1b7eaee760e5c5b1ab78daf68bd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\55af835f77423a8639f76d135d6761f6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\55af835f77423a8639f76d135d6761f6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\fce4588e1a8597d95390ee870f86a023\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\fce4588e1a8597d95390ee870f86a023\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\974a1e16f13de06ad7f142ed7a2984ec\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\974a1e16f13de06ad7f142ed7a2984ec\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.droidcafe.MainActivity
+ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.example.android.droidcafe.OrderActivity
+ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:38:9-60
+	android:name
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml:38:19-48
+uses-sdk
+INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\db98db746b480dad8f00e67f5b5fd1ef\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\db98db746b480dad8f00e67f5b5fd1ef\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4b468c4b6bcc3b508e236855e7e6c4ef\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4b468c4b6bcc3b508e236855e7e6c4ef\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\10d38086179baa57a6f2906ef552d7ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\10d38086179baa57a6f2906ef552d7ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4e3f314ed540e4e5172a0783e6d949ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4e3f314ed540e4e5172a0783e6d949ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\43896a556baf56910f5f76e3586f2c27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\43896a556baf56910f5f76e3586f2c27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4d743fbc06d0ccd6650dbf3355d9763f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4d743fbc06d0ccd6650dbf3355d9763f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\8752279e9a27700924cb27580ee4a35f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\8752279e9a27700924cb27580ee4a35f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\ac022c8cc92a629460c64a4f66c4accb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\ac022c8cc92a629460c64a4f66c4accb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\38934ccb274efd5e63354d549933a1c2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\38934ccb274efd5e63354d549933a1c2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\7168d14ddc006a213500d9545adbcd99\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\7168d14ddc006a213500d9545adbcd99\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\b200e1b7eaee760e5c5b1ab78daf68bd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\b200e1b7eaee760e5c5b1ab78daf68bd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\55af835f77423a8639f76d135d6761f6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\55af835f77423a8639f76d135d6761f6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\fce4588e1a8597d95390ee870f86a023\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\fce4588e1a8597d95390ee870f86a023\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\974a1e16f13de06ad7f142ed7a2984ec\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\974a1e16f13de06ad7f142ed7a2984ec\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\db98db746b480dad8f00e67f5b5fd1ef\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		ADDED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from D:\downlads\android-fundamentals-apps-v2-master\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\db98db746b480dad8f00e67f5b5fd1ef\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4b468c4b6bcc3b508e236855e7e6c4ef\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4b468c4b6bcc3b508e236855e7e6c4ef\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4e3f314ed540e4e5172a0783e6d949ab\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4e3f314ed540e4e5172a0783e6d949ab\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\43896a556baf56910f5f76e3586f2c27\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\43896a556baf56910f5f76e3586f2c27\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4d743fbc06d0ccd6650dbf3355d9763f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\4d743fbc06d0ccd6650dbf3355d9763f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\8752279e9a27700924cb27580ee4a35f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\8752279e9a27700924cb27580ee4a35f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\ac022c8cc92a629460c64a4f66c4accb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\ac022c8cc92a629460c64a4f66c4accb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\38934ccb274efd5e63354d549933a1c2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\38934ccb274efd5e63354d549933a1c2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\7168d14ddc006a213500d9545adbcd99\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\7168d14ddc006a213500d9545adbcd99\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\b200e1b7eaee760e5c5b1ab78daf68bd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\b200e1b7eaee760e5c5b1ab78daf68bd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\55af835f77423a8639f76d135d6761f6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\55af835f77423a8639f76d135d6761f6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\fce4588e1a8597d95390ee870f86a023\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\fce4588e1a8597d95390ee870f86a023\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\db98db746b480dad8f00e67f5b5fd1ef\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\db98db746b480dad8f00e67f5b5fd1ef\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\974a1e16f13de06ad7f142ed7a2984ec\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\974a1e16f13de06ad7f142ed7a2984ec\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ajay\.gradle\caches\transforms-2\files-2.1\974a1e16f13de06ad7f142ed7a2984ec\AndroidManifest.xml:26:13-58
